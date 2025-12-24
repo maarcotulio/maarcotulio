@@ -9,7 +9,7 @@
 
 Full Stack Developer from Brazil specializing in the **JavaScript/TypeScript ecosystem**.
 
-Currently working with **Next.js**, **React**, and **Supabase** to create modern, performant applications. Interested in system design, web performance optimization, and developer experience.
+Currently working with **Next.js**, **React**, and **AWS** to create modern, performant applications. Interested in system design, web performance optimization, and developer experience.
 
 **Work:** Open to remote opportunities worldwide  
 **Focus:** Real-time applications, Web performance, Cloud architecture
