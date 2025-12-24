@@ -60,38 +60,6 @@ Currently working with **Next.js**, **React**, and **Supabase** to create modern
 
 ---
 
-## Featured Projects
-
-### Fincheck
-**Personal Finance Management System**
-
-Complete financial control application featuring interactive dashboard, transaction categorization, and detailed reporting. Built with modern web technologies and best practices.
-
-**Stack:** React • TypeScript • Node.js • PostgreSQL • Prisma  
-**Repository:** [github.com/maarcotulio/Fincheck](https://github.com/maarcotulio/Fincheck)
-
----
-
-### WaiterApp
-**Restaurant Order Management**
-
-Mobile and web application designed to streamline restaurant operations by accelerating order taking and kitchen communication through real-time synchronization.
-
-**Stack:** React Native • TypeScript • Node.js • Socket.io • MongoDB  
-**Repository:** [github.com/maarcotulio/WaiterApp](https://github.com/maarcotulio/WaiterApp)
-
----
-
-### Chat e-Sports
-**Real-time Communication Platform**
-
-Chat platform for gaming communities with real-time messaging, presence detection, and channel-based organization. Built with Next.js and Supabase for scalability.
-
-**Stack:** Next.js • TypeScript • Supabase • Tailwind CSS  
-**Repository:** [github.com/maarcotulio/Chat_e-Sports](https://github.com/maarcotulio/Chat_e-Sports)
-
----
-
 ## GitHub Statistics
 
 <div align="center">
