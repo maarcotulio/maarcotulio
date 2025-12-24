@@ -7,7 +7,7 @@
 
 </div>
 
-Full Stack Developer from Brazil specializing in the **JavaScript/TypeScript ecosystem**.
+Full Stack Developer in the **JavaScript/TypeScript ecosystem**.
 
 Currently working with **Next.js**, **React**, and **AWS** to create modern, performant applications. Interested in system design, web performance optimization, and developer experience.
 
