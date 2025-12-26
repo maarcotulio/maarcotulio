@@ -37,11 +37,3 @@ Currently working with **Next.js**, **React**, and **AWS** to create modern, per
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 </div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maarcotulio&theme=tokyonight" alt="GitHub Streak" />
-</div>
